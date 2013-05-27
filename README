@@ -1,0 +1,7 @@
+Make sure you have java jdk and maven installed and set the environment path correctly
+Make sure that you stay in the addressbook directory
+To compile the project: type mvn clean compile
+To package the project: type mvn clean package
+To install the project: type mvn clean install
+To run the jar package: type java -jar target/addressbook-1.0-SNAPSHOT.jar
+
